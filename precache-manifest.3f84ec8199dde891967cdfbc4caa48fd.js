@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "910787ee717f19a28b4f27057fa21473",
+    "revision": "03b1c039311ff517059fc9cd4d53824d",
     "url": "/ABlutstein/ilana-app-test.git/index.html"
   },
   {
-    "revision": "dff50d6855d80ceff454",
-    "url": "/ABlutstein/ilana-app-test.git/static/css/main.ce64581c.chunk.css"
+    "revision": "c2e0ef9750f73d0ba9bb",
+    "url": "/ABlutstein/ilana-app-test.git/static/css/main.0a9b2da7.chunk.css"
   },
   {
     "revision": "d97a0591415f9beee6bb",
@@ -16,12 +16,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ABlutstein/ilana-app-test.git/static/js/2.3e0c7f09.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dff50d6855d80ceff454",
+    "revision": "c2e0ef9750f73d0ba9bb",
     "url": "/ABlutstein/ilana-app-test.git/static/js/main.70933f5d.chunk.js"
   },
   {
     "revision": "97a46b4bfb0488b05799",
     "url": "/ABlutstein/ilana-app-test.git/static/js/runtime-main.f48c4ab3.js"
+  },
+  {
+    "revision": "1141a33b0961134617b6008221adba80",
+    "url": "/ABlutstein/ilana-app-test.git/static/media/ButterflyKidsRegular.1141a33b.ttf"
+  },
+  {
+    "revision": "22ce3dc6a2c3f87b39f5bc8789257c44",
+    "url": "/ABlutstein/ilana-app-test.git/static/media/LondrinaSketchRegular.22ce3dc6.ttf"
   },
   {
     "revision": "43ee340b7f94cb2df2723af997f02aa3",

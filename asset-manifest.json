@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ABlutstein/ilana-app-test.git/static/css/main.ce64581c.chunk.css",
+    "main.css": "/ABlutstein/ilana-app-test.git/static/css/main.0a9b2da7.chunk.css",
     "main.js": "/ABlutstein/ilana-app-test.git/static/js/main.70933f5d.chunk.js",
     "main.js.map": "/ABlutstein/ilana-app-test.git/static/js/main.70933f5d.chunk.js.map",
     "runtime-main.js": "/ABlutstein/ilana-app-test.git/static/js/runtime-main.f48c4ab3.js",
@@ -8,16 +8,17 @@
     "static/js/2.3e0c7f09.chunk.js": "/ABlutstein/ilana-app-test.git/static/js/2.3e0c7f09.chunk.js",
     "static/js/2.3e0c7f09.chunk.js.map": "/ABlutstein/ilana-app-test.git/static/js/2.3e0c7f09.chunk.js.map",
     "index.html": "/ABlutstein/ilana-app-test.git/index.html",
-    "precache-manifest.eb0d6d8d126deace8667259985cd0b4a.js": "/ABlutstein/ilana-app-test.git/precache-manifest.eb0d6d8d126deace8667259985cd0b4a.js",
+    "precache-manifest.3f84ec8199dde891967cdfbc4caa48fd.js": "/ABlutstein/ilana-app-test.git/precache-manifest.3f84ec8199dde891967cdfbc4caa48fd.js",
     "service-worker.js": "/ABlutstein/ilana-app-test.git/service-worker.js",
-    "static/css/main.ce64581c.chunk.css.map": "/ABlutstein/ilana-app-test.git/static/css/main.ce64581c.chunk.css.map",
+    "static/css/main.0a9b2da7.chunk.css.map": "/ABlutstein/ilana-app-test.git/static/css/main.0a9b2da7.chunk.css.map",
     "static/js/2.3e0c7f09.chunk.js.LICENSE.txt": "/ABlutstein/ilana-app-test.git/static/js/2.3e0c7f09.chunk.js.LICENSE.txt",
+    "static/media/forms.css": "/ABlutstein/ilana-app-test.git/static/media/LondrinaSketchRegular.22ce3dc6.ttf",
     "static/media/App.css": "/ABlutstein/ilana-app-test.git/static/media/RainbowPic.43ee340b.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.f48c4ab3.js",
     "static/js/2.3e0c7f09.chunk.js",
-    "static/css/main.ce64581c.chunk.css",
+    "static/css/main.0a9b2da7.chunk.css",
     "static/js/main.70933f5d.chunk.js"
   ]
 }

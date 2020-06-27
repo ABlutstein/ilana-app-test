@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ABlutstein/ilana-app-test.git/precache-manifest.eb0d6d8d126deace8667259985cd0b4a.js"
+  "/ABlutstein/ilana-app-test.git/precache-manifest.3f84ec8199dde891967cdfbc4caa48fd.js"
 );
 
 self.addEventListener('message', (event) => {
